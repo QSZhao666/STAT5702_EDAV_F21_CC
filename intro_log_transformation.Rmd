@@ -6,4 +6,4 @@ A comprehensive guidance regarding log-transformation, with theoretical analysis
 
 The link of the PDF version of my guidance would be the followling. 
 
-https://github.com/QSZhao666/STAT5702_EDAV_F21/blob/3065f74c07418108912f62e5633ea48cbbbafaff/intro_log_transf.pdf
+https://github.com/QSZhao666/STAT5702_EDAV_F21_CC/blob/Community_Contribution/intro_log_transf.pdf
