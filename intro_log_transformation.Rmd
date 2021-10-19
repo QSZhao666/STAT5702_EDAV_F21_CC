@@ -3,3 +3,7 @@
 Shanzhao Qiao
 
 A comprehensive guidance regarding log-transformation, with theoretical analysis, examples of manipulated dataset with plots and visualizations, real-world examples, and some thoughts about situations that can not be applied to. 
+
+The link of the PDF version of my guidance would be the followling. 
+
+https://github.com/QSZhao666/STAT5702_EDAV_F21/blob/3065f74c07418108912f62e5633ea48cbbbafaff/intro_log_transf.pdf
