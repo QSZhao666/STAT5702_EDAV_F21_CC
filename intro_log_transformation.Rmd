@@ -1,4 +1,5 @@
 # Introdunction to Log-transformation
 
 Shanzhao Qiao
+
 A comprehensive guidance regarding log-transformation, with theoretical analysis, examples of manipulated dataset with plots and visualizations, real-world examples, and some thoughts about situations that can not be applied to. 
